@@ -165,12 +165,12 @@ Jenkins yükleyince otomatik gelir.
   
 # Yazar:
   
-  Ömer Kılıç
+  **Ömer Kılıç**
  
 # Yayınlanma Tarihi:
   
-  24.02.2023
+  **24.02.2023**
   
 # Yazar İletişim/Bilgi/Özgeçmiş:
   
-  http://omerkilic.rf.gd/
+  **http://omerkilic.rf.gd/**
