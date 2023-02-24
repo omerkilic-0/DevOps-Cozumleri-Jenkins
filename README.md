@@ -136,3 +136,41 @@ User <user>
 # Jenkins
   
  Açık kaynak kodlu bir otomasyon programıdır.
+
+# Jenkins Kavramı
+  
+Job
+Node
+Plugin(eklenti)
+Pipeline
+  
+# Pipeline
+ 
+Jenkins yükleyince otomatik gelir.
+  
+# Pipeline Özellikleri
+
+- Kod
+- Dayanıklılık
+- Duraklatılabilirlik
+- Çok yönlü
+- Genişletilebilirlik
+
+# Pipeline Tanımları
+  
+1. Pipeline
+2. Node
+3. Stage
+4. Step
+  
+# Yazar:
+  
+  Ömer Kılıç
+ 
+# Yayınlanma Tarihi:
+  
+  24.02.2023
+  
+# Yazar İletişim/Bilgi/Özgeçmiş:
+  
+  http://omerkilic.rf.gd/
